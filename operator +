@@ -1,0 +1,8 @@
+public class MyClass {
+  public static void main(String[] args) {
+  int sum1=100+30;
+  int sum2=40+40;
+  System.out.println(sum1);
+  System.out.println(sum2);
+  }
+  }
