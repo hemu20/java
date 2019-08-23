@@ -1,0 +1,12 @@
+public class MyClass {
+  public static void main(String[] args) {
+  int x=20;
+  if(x<45){
+  System.out.println("true");
+  }
+  else
+  {
+  System.out.println("false");
+  }
+  }
+  }
