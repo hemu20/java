@@ -1,0 +1,6 @@
+public class myclass{
+public static void main(String[] args){
+string name="hem";
+System.out.println(hem+"hello);
+}
+}
