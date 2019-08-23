@@ -1,0 +1,8 @@
+public class MyClass {
+  public static void main(String[] args) {
+  string a="hi this is hemanth";
+  string b="HI THIS IS HEMANTH";
+  System.out.println(a.toUppercase());
+  System.out.println(b.toLowercase());
+  }
+  }
