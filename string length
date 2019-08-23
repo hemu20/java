@@ -1,0 +1,6 @@
+public class MyClass {
+  public static void main(String[] args) {
+  string r="hi hello";
+  System.out.println(r.length());
+  }
+  }
