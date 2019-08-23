@@ -1,0 +1,8 @@
+public class MyClass {
+  public static void main(String[] args) {
+  string firstn="hem";
+  string second="nath";
+  string full=firstn+second;
+  System.out.println(full);
+  }
+  }
