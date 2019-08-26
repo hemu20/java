@@ -1,0 +1,10 @@
+public class my{
+int x;
+public my(){
+x=5;
+}
+public static void Main(String[] args){
+my myobj=new my();
+System.out.println("myobj.x);
+}
+}
