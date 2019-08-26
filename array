@@ -1,0 +1,6 @@
+public class MyClass {
+  public static void main(String[] args) {
+  int[][] num={{1,2,3}{4,5,6}}
+  for(i=0;num<i.lenght;i++)
+  for(j=0;jnum[i]<j.lenght;j++)
+  System.out.println(num[i][j]);
