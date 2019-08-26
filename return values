@@ -1,0 +1,8 @@
+public class my{
+static void(int x){
+return x+5;
+}
+public static void Main(String[] args){
+System.out.println(my(3));
+}
+}
