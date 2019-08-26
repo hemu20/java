@@ -1,0 +1,10 @@
+public class hi{
+int x;
+public hi(int y){
+x=y;
+}
+public static void Main(String[] args){
+hi hiobj=new hi(4);
+System.out.println(hiobj.x);
+}
+}
