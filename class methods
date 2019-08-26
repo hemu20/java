@@ -1,0 +1,14 @@
+public class car{
+static void hi(){
+System.out.println("hi");
+}
+static void speed(int maxspeed)
+{
+System.out.println("ma speed is"+maxspeed);
+}
+public static void Main(String[] args){
+car mycar=new car;
+mycar.hi;
+mycar.speed(40);
+}
+}
