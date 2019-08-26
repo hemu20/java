@@ -1,0 +1,10 @@
+public class my{
+static void my{
+System.out.println("hi");
+}
+public static void main(String[] args){
+my();
+my();
+my();
+my();
+}
