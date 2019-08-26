@@ -1,0 +1,7 @@
+public class my {
+int x=5;
+public Static void Main(String[] args){
+my myobj=new my();
+System.out.println(myobj.x);
+}
+}
