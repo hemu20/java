@@ -1,0 +1,11 @@
+public classs my{
+int age=20;
+string fname="sai";
+string lname="hemanth";
+public Static void Main(String[] args){
+my myobj=new my();
+System.out.println("hi+myboj.fname+" "+myobj.lname);
+System.out.println("age+myobj+age);
+
+}
+}
