@@ -1,0 +1,10 @@
+public class my{
+static void(int x, int y)
+{
+retun x+y;
+}
+public static void Main(String[] args){
+int z=my(5,4);
+Sytem.out.println(z);
+}
+}
