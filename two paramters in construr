@@ -1,0 +1,12 @@
+public class hi{
+int num;
+string name;
+public hi(int number string fname)
+num=number;
+name=fname;
+}
+public static void Main(String[] args)
+hi hiobj=new hi(20,hem);
+System.out.println(hiobj.num+hiobj.name);
+}
+}
