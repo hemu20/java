@@ -1,0 +1,8 @@
+public class my{
+static void(int x, int y)
+return x+y
+}
+public static void Main(String[] args)
+{
+System.out.println(my(x,y);
+}
