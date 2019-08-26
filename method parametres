@@ -1,0 +1,9 @@
+public class my{
+Static void my(String fname){
+System.out.println(fname + "hemanth");
+}
+public static void Main(String[] args){
+my(hi);
+my(hello);
+}
+}
